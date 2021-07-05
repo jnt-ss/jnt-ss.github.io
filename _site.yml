@@ -1,0 +1,11 @@
+name: "Joan Antoni Seguí github.io"
+output_dir: "docs"
+navbar:
+  title: "Home"
+  left:
+    - text: "MSc Finance"
+      href: https://jnt-ss.github.io/Msc-Finance/
+
+output:
+  html_document:
+    theme: cosmo
