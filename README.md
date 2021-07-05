@@ -1,1 +1,1 @@
-# jnt-ss.github.io
+# Joan Antoni Segui Serra github page
